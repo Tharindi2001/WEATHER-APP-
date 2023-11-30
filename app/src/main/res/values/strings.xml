@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeatherAPP</string>
+    <string name="temperature">Temperature:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="weather_description">Weather Description:</string>
+    <string name="future_weather_detail_2">Future Weather Detail 2</string>
+    <string name="future_weather_detail_1">Future Weather Detail 1</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="save_location">Save Location</string>
+    <string name="feels_like_30">Feels like 30°</string>
+    <string name="_36">36°</string>
+    <string name="fri_november_9_3_58_pm">Fri, November 9, 3:58 PM</string>
+    <string name="boulder">Boulder</string>
+    <string name="background_description" />
+    <string name="location_description" />
+    <string name="time_description" />
+    <string name="temperature_description" />
+    <string name="weather_icon_description" />
+    <string name="feels_like_description" />
+    <string name="_32">32</string>
+</resources>
